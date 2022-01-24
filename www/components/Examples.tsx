@@ -67,8 +67,8 @@ const eventsExample = {
     type: "string",
     faker: {
       generator: "ipv4",
-    },
-  },
+    }
+  }
 }
 
 const Examples = () => {
